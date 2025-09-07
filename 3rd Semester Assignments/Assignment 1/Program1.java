@@ -13,9 +13,9 @@ class P1
     int roll=sc.nextInt();
     System.out.println(“Enter your college”);
     String college=sc.nextLine();
-    System.out.println(“Name:”+name);
-    System.out.println(“Roll:”+roll);
-    System.out.println(“Branch:”+branch);
-    System.out.println(“College:"+college);
+    System.out.println(“Name: ”+name);
+    System.out.println(“Roll: ”+roll);
+    System.out.println(“Branch: ”+branch);
+    System.out.println(“College: "+college);
   }
 }
