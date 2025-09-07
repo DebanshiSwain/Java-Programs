@@ -1,4 +1,4 @@
-// 2. Write a program to display the addition result of two  numbers 10.25 and 20.55 on the screen
+/* 2. Write a program to display the addition result of two  numbers 10.25 and 20.55 on the screen */
 
 class P2
 {
